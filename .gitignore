@@ -19,3 +19,6 @@ venv/
 
 # Mengabaikan pengaturan teks editor lokal (opsional)
 .vscode/
+
+# Mengabaikan file panduan instalasi lokal
+INSTALL.md
