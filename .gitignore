@@ -16,3 +16,6 @@ vendor/
 node_modules/
 venv/
 .env
+
+# Mengabaikan pengaturan teks editor lokal (opsional)
+.vscode/
