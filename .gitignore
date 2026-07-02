@@ -22,3 +22,6 @@ venv/
 
 # Mengabaikan file panduan instalasi lokal
 INSTALL.md
+
+# Mengabaikan semua file database SQL
+*.sql
